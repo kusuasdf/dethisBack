@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'backend-dethis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BAC92BEED4B49069AFB2EAF056B40AF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11B9435AF5C3482E9E69773727FF6B97 }}
